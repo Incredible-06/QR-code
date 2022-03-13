@@ -4,17 +4,18 @@
 }
 
 body {
-    background: hsl(214, 58%, 86%);
+    background: hsl(212, 45%, 89%) ;
 }
 
 .hijo {
     background: hsl(0, 0%, 100%);
-    width: 300px;
-    height: 500px;
+    width: 320px;
+    height: 475px;
     border-radius: 1em;
     text-align: center;
     align-items: center;
     margin: 115px auto;
+    box-shadow: 3px 7px 17px hsl(219, 27%, 75%);
 }
 
 .hijo img {
@@ -24,17 +25,17 @@ body {
 }
 
 .hijo h1 {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 800;
     color: hsl(218, 44%, 22%);
     margin: 15px 20px;
 }
 
 .hijo p {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     color: hsl(212, 8%, 57%);
-    margin: 10px 25px 20px;
+    margin: 20px 30px 20px;
 }
 
 
