@@ -25,10 +25,10 @@ body {
 }
 
 .hijo h1 {
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 800;
     color: hsl(218, 44%, 22%);
-    margin: 18px 20px 15px;
+    margin: 25px 20px 15px;
 }
 
 .hijo p {
