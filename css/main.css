@@ -12,7 +12,7 @@ body {
 }
 
 
-#hijo {
+.hijo {
     background: hsl(0, 0%, 100%);
     width: 350px;
     height: 500px;
@@ -23,20 +23,20 @@ body {
     box-shadow: 5px 4px 10px rgb(6, 7, 58);
 }
 
-#hijo img {
+.hijo img {
     width: 90%;
     border-radius: 1em;
     margin-top: 15px;
 }
 
-#hijo h1 {
+.hijo h1 {
     font-size: 22px;
     font-weight: 800;
     color: hsl(218, 44%, 22%);
     margin: 10px 20px;
 }
 
-#hijo p {
+.hijo p {
     font-size: 16px;
     font-weight: 400;
     color: hsl(212, 8%, 57%);
