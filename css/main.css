@@ -10,11 +10,11 @@ body {
 .hijo {
     background: hsl(0, 0%, 100%);
     width: 320px;
-    height: 475px;
+    height: 490px;
     border-radius: 1em;
     text-align: center;
     align-items: center;
-    margin: 115px auto;
+    margin: 135px auto;
     box-shadow: 3px 7px 17px hsl(219, 27%, 75%);
 }
 
@@ -28,14 +28,14 @@ body {
     font-size: 18px;
     font-weight: 800;
     color: hsl(218, 44%, 22%);
-    margin: 15px 20px;
+    margin: 20px 20px;
 }
 
 .hijo p {
     font-size: 14px;
     font-weight: 400;
     color: hsl(212, 8%, 57%);
-    margin: 20px 30px 20px;
+    margin: 25px 30px 20px;
 }
 
 
