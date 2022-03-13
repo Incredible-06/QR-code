@@ -7,20 +7,14 @@ body {
     background: hsl(214, 58%, 86%);
 }
 
-.contenedor {
-    position: relative;
-}
-
-
 .hijo {
     background: hsl(0, 0%, 100%);
-    width: 350px;
+    width: 300px;
     height: 500px;
     border-radius: 1em;
     text-align: center;
     align-items: center;
-    margin: 75px auto;
-    box-shadow: 5px 4px 10px rgb(6, 7, 58);
+    margin: 115px auto;
 }
 
 .hijo img {
@@ -33,14 +27,14 @@ body {
     font-size: 22px;
     font-weight: 800;
     color: hsl(218, 44%, 22%);
-    margin: 10px 20px;
+    margin: 15px 20px;
 }
 
 .hijo p {
     font-size: 16px;
     font-weight: 400;
     color: hsl(212, 8%, 57%);
-    margin: 10px 25px;
+    margin: 10px 25px 20px;
 }
 
 
